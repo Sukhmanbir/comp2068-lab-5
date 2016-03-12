@@ -11,7 +11,7 @@ var userSchema = new mongoose.Schema({
         trim: true,
         required: 'Username is required'
     },
-    content: {
+    email: {
         type: String,
         default: '',
         trim: true
