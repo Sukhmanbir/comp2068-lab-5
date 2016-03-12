@@ -1,3 +1,3 @@
-# Lab-04
+# Lab-05
 
-A MongoDB Demo Project for COMP2068 @ Georgian College
+A MongoDB Demo Project for Lab 5
